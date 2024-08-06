@@ -1,0 +1,52 @@
+body {
+  background-color: black;
+}
+
+.card {
+  max-width: 1000px;
+}
+
+img {
+height: 150px;
+width: 150px;
+}
+
+.phone, .email {
+  font-size: small;
+}
+
+.form-label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.form-control {
+  width: 100%; 
+  padding: 0.5rem;
+  border: 1px solid #ccc; 
+  border-radius: 0.25rem;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+.container {
+  height: 100vh
+}
+
+.form {
+  max-width: 6000px 
+}
+
+.fa-trash, .fa-pencil {
+  cursor: pointer;
+}
+
